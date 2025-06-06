@@ -54,8 +54,19 @@ Designed a layered security lab with network segmentation, firewall rules (iptab
 
 ---
 
+### **[Docker Honeynet + Suricata + Tailscale](https://github.com/vlain-jkr/docker-honeynet-lab)**
+Launched a vulnerable container network (DVWA, Juice Shop, WebGoat) monitored by Suricata IDS and isolated via nftables. Access secured using Tailscale, simulating attacker traffic for alert tuning and log analysis.
+
+**Skills**: Docker, honeypots, Suricata monitoring, network isolation, secure remote access
+
+---
+
 ## 👤 About Me
 
-I'm **Gunveer Singh**, working under the handle **vlain-jkr** to explore the practical side of cybersecurity through open labs and research. I enjoy building realistic security environments and experimenting with ways to detect and prevent malicious behavior.
+I'm **Gunveer Singh**, but online I go by **vlain-jkr** — building out security labs where attackers roam and defenders respond.
 
-Feel free to explore the projects, fork the labs, or connect to collaborate.
+I experiment with deception, intrusion detection, and defense-in-depth strategies in contained, replicable environments. My work focuses on **understanding attack behaviors** and crafting **layered defenses** that reveal more than they block.
+
+Explore, fork, test, break things — or reach out if you want to collaborate.
+
+🕶️ Defense is an art. Let’s make it a little theatrical.
